@@ -1,0 +1,8 @@
+{
+  "name": "naver-keyword-proxy",
+  "version": "1.0.0",
+  "description": "Naver Keyword Insight Chrome Extension - Vercel Proxy",
+  "engines": {
+    "node": "20.x"
+  }
+}
