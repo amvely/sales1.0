@@ -1,7 +1,7 @@
 // ─── Vercel 프록시 URL ────────────────────────────────────────────────────
 // 배포 후 실제 URL로 교체하세요
 // 예: https://naver-keyword-proxy.vercel.app/api/keyword
-const PROXY_URL = 'https://YOUR_PROJECT.vercel.app/api/keyword';
+const PROXY_URL = 'sales1-clh6hvg13-amvelys-projects.vercel.app';
 
 // ─── 메시지 리스너 ────────────────────────────────────────────────────────
 chrome.runtime.onMessage.addListener((msg, sender, sendResponse) => {
